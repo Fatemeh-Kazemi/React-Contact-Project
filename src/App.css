@@ -1,0 +1,26 @@
+body{
+    font-family: "Vazir", "tahoma";
+    background-color: #282e36;
+}
+.App{
+    text-align: center;
+}
+.App-btn{
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+    display: block;
+    margin: 10px auto;
+    background-color: aqua;
+}
+
+input::placeholder{
+    color: #f8f8f4 !important;
+    background-color: #44475a !important;
+    border-color: #bd93f9 !important;
+}
+.form-control{
+    color: #f8f8f4 !important;
+    background-color: #44475a !important;
+    border-color: #bd93f9 !important;
+}
